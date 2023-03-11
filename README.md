@@ -1,2 +1,3 @@
 # git_test
-Trying to wor with GitHub
+Trying to work with GitHub
+Hello Odin!
